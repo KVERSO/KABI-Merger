@@ -1,0 +1,6 @@
+export const STORAGE_EMAIL_CID = process.env.NODE_ENV === 'development' ? 'slh3i-tiaaa-aaaai-abana-cai' : 'slh3i-tiaaa-aaaai-abana-cai'
+export const WICP_INFO_CID = process.env.NODE_ENV === 'development' ? '7xlb5-raaaa-aaaai-qa2ja-cai' : 'o5d6i-5aaaa-aaaah-qbz2q-cai'
+export const HISTORY_CID = process.env.NODE_ENV === 'development' ? 'j5d6o-3iaaa-aaaah-qccra-cai' : 'j5d6o-3iaaa-aaaah-qccra-cai'
+export const LEDGER_CANISTER_ID = 'ryjl3-tyaaa-aaaaa-aaaba-cai'
+export const II_LOCAL_URL = 'https://identity.ic0.app/#authorize'
+export const HOST_URL = 'https://boundary.ic0.app/'

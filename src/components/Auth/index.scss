@@ -1,0 +1,22 @@
+.authToken-content {
+  width: 200px;
+  height: 50px;
+  border-radius: 6px;
+  border: 1px solid #59c3f2;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  column-gap: 10px;
+
+  span {
+    font-size: 20px;
+    font-family: PingFangSC-Semibold, PingFang SC;
+    font-weight: 600;
+    color: #ffffff;
+    line-height: 28px;
+    :hover {
+      cursor: pointer;
+      color: #d9d9d9;
+    }
+  }
+}
